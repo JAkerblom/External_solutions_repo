@@ -1,0 +1,10 @@
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Entity\bin\Debug\Northwind.Entity.dll
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Entity\bin\Debug\Northwind.Entity.pdb
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Entity\obj\Debug\Northwind.Entity.csprojResolveAssemblyReference.cache
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Entity\obj\Debug\Northwind.Entity.dll
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Entity\obj\Debug\Northwind.Entity.pdb
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\v1.0.1\Northwind.Entity\bin\Debug\Northwind.Entity.dll
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\v1.0.1\Northwind.Entity\bin\Debug\Northwind.Entity.pdb
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\v1.0.1\Northwind.Entity\obj\Debug\Northwind.Entity.csprojResolveAssemblyReference.cache
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\v1.0.1\Northwind.Entity\obj\Debug\Northwind.Entity.dll
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\v1.0.1\Northwind.Entity\obj\Debug\Northwind.Entity.pdb

@@ -1,0 +1,9 @@
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoTests\bin\Debug\netcoreapp1.1\ArtistInfoTests.deps.json
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoTests\bin\Debug\netcoreapp1.1\ArtistInfoTests.dll
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoTests\bin\Debug\netcoreapp1.1\ArtistInfoTests.pdb
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoTests\obj\Debug\netcoreapp1.1\ArtistInfoTests.AssemblyInfo.cs
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoTests\obj\Debug\netcoreapp1.1\ArtistInfoTests.dll
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoTests\obj\Debug\netcoreapp1.1\ArtistInfoTests.pdb
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoTests\bin\Debug\netcoreapp1.1\ArtistInfoLib.dll
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoTests\bin\Debug\netcoreapp1.1\ArtistInfoLib.pdb
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoTests\obj\Debug\netcoreapp1.1\ArtistInfoTests.csprojResolveAssemblyReference.cache

@@ -1,0 +1,18 @@
+These samples use Angular 2.0
+
+Live DEMO here: http://www.syntaxsuccess.com/angular-2-samples
+Documentation: http://www.syntaxsuccess.com/angular-2-articles
+
+Here are the prerequisites for running the project:
+
+1) npm install && bower install
+
+2) npm run install-application 
+   
+   -AOT compiles
+   -Tree shakes 
+   -Bundles app into single file
+
+2) npm run start
+
+

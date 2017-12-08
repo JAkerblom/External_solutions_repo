@@ -1,0 +1,16 @@
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoTest\bin\Debug\netcoreapp1.1\ArtistInfoTest.deps.json
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoTest\bin\Debug\netcoreapp1.1\ArtistInfoTest.dll
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoTest\obj\Debug\netcoreapp1.1\ArtistInfoTest.AssemblyInfo.cs
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoTest\bin\Debug\netcoreapp1.1\ArtistInfoAPI.dll
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoTest\bin\Debug\netcoreapp1.1\ArtistInfoLib.dll
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoTest\bin\Debug\netcoreapp1.1\ArtistInfoAPI.pdb
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoTest\bin\Debug\netcoreapp1.1\ArtistInfoLib.pdb
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoTest\obj\Debug\netcoreapp1.1\ArtistInfoTest.csprojResolveAssemblyReference.cache
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoTest\bin\Debug\netcoreapp1.1\ArtistInfoTest.pdb
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoTest\obj\Debug\netcoreapp1.1\ArtistInfoTest.dll
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoTest\obj\Debug\netcoreapp1.1\ArtistInfoTest.pdb
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoTest\bin\Debug\netcoreapp1.1\ArtistInfoTest.runtimeconfig.json
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoTest\bin\Debug\netcoreapp1.1\ArtistInfoTest.runtimeconfig.dev.json

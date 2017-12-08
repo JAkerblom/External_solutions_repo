@@ -1,0 +1,7 @@
+c:\users\jakerblom\documents\visual studio 2015\Projects\CartSolution\CartSolution\bin\Debug\CartSolution.dll
+c:\users\jakerblom\documents\visual studio 2015\Projects\CartSolution\CartSolution\bin\Debug\CartSolution.pdb
+c:\users\jakerblom\documents\visual studio 2015\Projects\CartSolution\CartSolution\bin\Debug\nunit.framework.dll
+c:\users\jakerblom\documents\visual studio 2015\Projects\CartSolution\CartSolution\bin\Debug\nunit.framework.xml
+c:\users\jakerblom\documents\visual studio 2015\Projects\CartSolution\CartSolution\obj\Debug\CartSolution.csprojResolveAssemblyReference.cache
+c:\users\jakerblom\documents\visual studio 2015\Projects\CartSolution\CartSolution\obj\Debug\CartSolution.dll
+c:\users\jakerblom\documents\visual studio 2015\Projects\CartSolution\CartSolution\obj\Debug\CartSolution.pdb

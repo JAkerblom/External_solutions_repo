@@ -1,0 +1,6 @@
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoLib\bin\Debug\netcoreapp1.1\ArtistInfoLib.deps.json
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoLib\bin\Debug\netcoreapp1.1\ArtistInfoLib.dll
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoLib\bin\Debug\netcoreapp1.1\ArtistInfoLib.pdb
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoLib\obj\Debug\netcoreapp1.1\ArtistInfoLib.AssemblyInfo.cs
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoLib\obj\Debug\netcoreapp1.1\ArtistInfoLib.dll
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoLib\obj\Debug\netcoreapp1.1\ArtistInfoLib.pdb

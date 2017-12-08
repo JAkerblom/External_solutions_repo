@@ -1,0 +1,11 @@
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ClassLibrary1\bin\Debug\netcoreapp1.1\ClassLibrary1.deps.json
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ClassLibrary1\bin\Debug\netcoreapp1.1\ClassLibrary1.dll
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ClassLibrary1\bin\Debug\netcoreapp1.1\ArtistInfoAPI.dll
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ClassLibrary1\bin\Debug\netcoreapp1.1\ArtistInfoLib.dll
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ClassLibrary1\bin\Debug\netcoreapp1.1\ArtistInfoAPI.pdb
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ClassLibrary1\bin\Debug\netcoreapp1.1\ArtistInfoLib.pdb
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ClassLibrary1\obj\Debug\netcoreapp1.1\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ClassLibrary1\obj\Debug\netcoreapp1.1\ClassLibrary1.AssemblyInfo.cs
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ClassLibrary1\bin\Debug\netcoreapp1.1\ClassLibrary1.pdb
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ClassLibrary1\obj\Debug\netcoreapp1.1\ClassLibrary1.dll
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ClassLibrary1\obj\Debug\netcoreapp1.1\ClassLibrary1.pdb

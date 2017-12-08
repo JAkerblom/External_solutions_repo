@@ -1,0 +1,11 @@
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoAPI\bin\Debug\netcoreapp1.1\ArtistInfoAPI.deps.json
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoAPI\bin\Debug\netcoreapp1.1\ArtistInfoAPI.runtimeconfig.json
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoAPI\bin\Debug\netcoreapp1.1\ArtistInfoAPI.runtimeconfig.dev.json
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoAPI\bin\Debug\netcoreapp1.1\ArtistInfoAPI.dll
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoAPI\bin\Debug\netcoreapp1.1\ArtistInfoAPI.pdb
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoAPI\bin\Debug\netcoreapp1.1\ArtistInfoLib.dll
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoAPI\bin\Debug\netcoreapp1.1\ArtistInfoLib.pdb
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoAPI\obj\Debug\netcoreapp1.1\ArtistInfoAPI.csprojResolveAssemblyReference.cache
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoAPI\obj\Debug\netcoreapp1.1\ArtistInfoAPI.AssemblyInfo.cs
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoAPI\obj\Debug\netcoreapp1.1\ArtistInfoAPI.dll
+C:\Users\kim.tengbom\Documents\Diverse Programmering\Hemuppgift\ArtistInfoAPI\ArtistInfoAPI\obj\Debug\netcoreapp1.1\ArtistInfoAPI.pdb

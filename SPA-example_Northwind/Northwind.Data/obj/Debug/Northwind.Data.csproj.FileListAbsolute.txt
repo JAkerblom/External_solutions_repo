@@ -1,0 +1,24 @@
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Data\bin\Debug\Northwind.Data.dll.config
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Data\bin\Debug\Northwind.Data.dll
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Data\bin\Debug\Northwind.Data.pdb
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Data\bin\Debug\EntityFramework.dll
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Data\bin\Debug\Northwind.Entity.dll
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Data\bin\Debug\Northwind.Entity.pdb
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Data\bin\Debug\EntityFramework.xml
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Data\obj\Debug\Northwind.Data.csprojResolveAssemblyReference.cache
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Data\obj\Debug\Northwind.Data.dll
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Data\obj\Debug\Northwind.Data.pdb
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\v1.0.1\Northwind.Data\bin\Debug\Northwind.Data.dll.config
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\v1.0.1\Northwind.Data\bin\Debug\Northwind.Data.dll
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\v1.0.1\Northwind.Data\bin\Debug\Northwind.Data.pdb
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\v1.0.1\Northwind.Data\bin\Debug\EntityFramework.dll
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\v1.0.1\Northwind.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\v1.0.1\Northwind.Data\bin\Debug\Northwind.Entity.dll
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\v1.0.1\Northwind.Data\bin\Debug\Northwind.Entity.pdb
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\v1.0.1\Northwind.Data\bin\Debug\EntityFramework.xml
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\v1.0.1\Northwind.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\v1.0.1\Northwind.Data\obj\Debug\Northwind.Data.csprojResolveAssemblyReference.cache
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\v1.0.1\Northwind.Data\obj\Debug\Northwind.Data.dll
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\v1.0.1\Northwind.Data\obj\Debug\Northwind.Data.pdb

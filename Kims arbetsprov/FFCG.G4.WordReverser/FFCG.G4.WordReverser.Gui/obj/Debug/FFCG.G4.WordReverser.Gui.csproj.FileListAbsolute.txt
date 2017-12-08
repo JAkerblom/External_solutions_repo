@@ -1,0 +1,8 @@
+C:\Users\kim.tengbom\Documents\GitHub\FFCG.Generation\FFCG.G4.WordReverser\FFCG.G4.WordReverser.Gui\bin\Debug\FFCG.G4.WordReverser.Gui.exe.config
+C:\Users\kim.tengbom\Documents\GitHub\FFCG.Generation\FFCG.G4.WordReverser\FFCG.G4.WordReverser.Gui\bin\Debug\FFCG.G4.WordReverser.Gui.exe
+C:\Users\kim.tengbom\Documents\GitHub\FFCG.Generation\FFCG.G4.WordReverser\FFCG.G4.WordReverser.Gui\bin\Debug\FFCG.G4.WordReverser.Gui.pdb
+C:\Users\kim.tengbom\Documents\GitHub\FFCG.Generation\FFCG.G4.WordReverser\FFCG.G4.WordReverser.Gui\bin\Debug\FFCG.G4.WordReverser.dll
+C:\Users\kim.tengbom\Documents\GitHub\FFCG.Generation\FFCG.G4.WordReverser\FFCG.G4.WordReverser.Gui\bin\Debug\FFCG.G4.WordReverser.pdb
+C:\Users\kim.tengbom\Documents\GitHub\FFCG.Generation\FFCG.G4.WordReverser\FFCG.G4.WordReverser.Gui\obj\Debug\FFCG.G4.WordReverser.Gui.csprojResolveAssemblyReference.cache
+C:\Users\kim.tengbom\Documents\GitHub\FFCG.Generation\FFCG.G4.WordReverser\FFCG.G4.WordReverser.Gui\obj\Debug\FFCG.G4.WordReverser.Gui.exe
+C:\Users\kim.tengbom\Documents\GitHub\FFCG.Generation\FFCG.G4.WordReverser\FFCG.G4.WordReverser.Gui\obj\Debug\FFCG.G4.WordReverser.Gui.pdb

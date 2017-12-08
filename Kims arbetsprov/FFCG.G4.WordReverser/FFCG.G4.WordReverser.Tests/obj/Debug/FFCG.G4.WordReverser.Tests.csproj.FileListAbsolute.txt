@@ -1,0 +1,9 @@
+C:\Users\kim.tengbom\Documents\GitHub\FFCG.Generation\FFCG.G4.WordReverser\FFCG.G4.WordReverser.Tests\bin\Debug\FFCG.G4.WordReverser.Tests.dll
+C:\Users\kim.tengbom\Documents\GitHub\FFCG.Generation\FFCG.G4.WordReverser\FFCG.G4.WordReverser.Tests\bin\Debug\FFCG.G4.WordReverser.Tests.pdb
+C:\Users\kim.tengbom\Documents\GitHub\FFCG.Generation\FFCG.G4.WordReverser\FFCG.G4.WordReverser.Tests\bin\Debug\FFCG.G4.WordReverser.dll
+C:\Users\kim.tengbom\Documents\GitHub\FFCG.Generation\FFCG.G4.WordReverser\FFCG.G4.WordReverser.Tests\bin\Debug\nunit.framework.dll
+C:\Users\kim.tengbom\Documents\GitHub\FFCG.Generation\FFCG.G4.WordReverser\FFCG.G4.WordReverser.Tests\bin\Debug\FFCG.G4.WordReverser.pdb
+C:\Users\kim.tengbom\Documents\GitHub\FFCG.Generation\FFCG.G4.WordReverser\FFCG.G4.WordReverser.Tests\bin\Debug\nunit.framework.xml
+C:\Users\kim.tengbom\Documents\GitHub\FFCG.Generation\FFCG.G4.WordReverser\FFCG.G4.WordReverser.Tests\obj\Debug\FFCG.G4.WordReverser.Tests.csprojResolveAssemblyReference.cache
+C:\Users\kim.tengbom\Documents\GitHub\FFCG.Generation\FFCG.G4.WordReverser\FFCG.G4.WordReverser.Tests\obj\Debug\FFCG.G4.WordReverser.Tests.dll
+C:\Users\kim.tengbom\Documents\GitHub\FFCG.Generation\FFCG.G4.WordReverser\FFCG.G4.WordReverser.Tests\obj\Debug\FFCG.G4.WordReverser.Tests.pdb

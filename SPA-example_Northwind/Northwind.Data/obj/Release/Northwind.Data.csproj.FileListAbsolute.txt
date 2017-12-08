@@ -1,0 +1,12 @@
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Data\bin\Release\Northwind.Data.dll.config
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Data\bin\Release\Northwind.Data.dll
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Data\bin\Release\Northwind.Data.pdb
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Data\bin\Release\EntityFramework.dll
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Data\bin\Release\Northwind.Entity.dll
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Data\bin\Release\Northwind.Entity.pdb
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Data\bin\Release\EntityFramework.xml
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Data\obj\Release\Northwind.Data.csprojResolveAssemblyReference.cache
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Data\obj\Release\Northwind.Data.dll
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Data\obj\Release\Northwind.Data.pdb

@@ -1,0 +1,11 @@
+﻿@model IEnumerable<MessageBoard.Data.Topic>
+@{
+  ViewBag.Title = "Home Page";
+  ViewBag.InitModule = "homeIndex";
+}
+@section Scripts {
+  <script src="~/js/home-index.min.js"></script>
+}
+
+    // Where routed views are to be injected
+<div data-ng-view=""></div>

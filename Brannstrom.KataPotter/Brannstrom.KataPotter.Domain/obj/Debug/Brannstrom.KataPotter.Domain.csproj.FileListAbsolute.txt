@@ -1,0 +1,4 @@
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\Brannstrom.KataPotter\Brannstrom.KataPotter.Domain\bin\Debug\Brannstrom.KataPotter.Domain.dll
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\Brannstrom.KataPotter\Brannstrom.KataPotter.Domain\bin\Debug\Brannstrom.KataPotter.Domain.pdb
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\Brannstrom.KataPotter\Brannstrom.KataPotter.Domain\obj\Debug\Brannstrom.KataPotter.Domain.dll
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\Brannstrom.KataPotter\Brannstrom.KataPotter.Domain\obj\Debug\Brannstrom.KataPotter.Domain.pdb

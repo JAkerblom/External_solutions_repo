@@ -1,0 +1,4 @@
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Entity\bin\Release\Northwind.Entity.dll
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Entity\bin\Release\Northwind.Entity.pdb
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Entity\obj\Release\Northwind.Entity.dll
+C:\Users\lle\Source\Repos\easyspa\main\Northwind.Entity\obj\Release\Northwind.Entity.pdb
