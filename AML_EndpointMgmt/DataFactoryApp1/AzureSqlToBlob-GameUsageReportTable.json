@@ -1,0 +1,58 @@
+{
+  "$schema": "http://datafactories.schema.management.azure.com/schemas/2015-08-01/Microsoft.DataFactory.Table.json",
+  "name": "AzureSqlToBlob-GameUsageReportTable",
+  "properties": {
+    "structure": [
+      {
+        "name": "ProfileID",
+        "type": "String"
+      },
+      {
+        "name": "SessionStart",
+        "type": "String"
+      },
+      {
+        "name": "Duration",
+        "type": "Int32"
+      },
+      {
+        "name": "State",
+        "type": "String"
+      },
+      {
+        "name": "SrcIPAddress",
+        "type": "String"
+      },
+      {
+        "name": "GameType",
+        "type": "String"
+      },
+      {
+        "name": "Multiplayer",
+        "type": "String"
+      },
+      {
+        "name": "EndRank",
+        "type": "Int32"
+      },
+      {
+        "name": "WeaponsUsed",
+        "type": "Int32"
+      },
+      {
+        "name": "UsersInteractedWith",
+        "type": "String"
+      }
+    ],
+    "type": "AzureSqlTable",
+    "linkedServiceName": "AzureSqlToBlob-AzureSqlLinkedService",
+    "typeProperties": {
+      "tableName": "GameUsageReportSqlToBlob"
+    },
+    "external": true,
+    "availability": {
+      "frequency": "Minute",
+      "interval": 15
+    }
+  }
+}

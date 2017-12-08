@@ -1,0 +1,45 @@
+﻿{
+    "$schema": "http://datafactories.schema.management.azure.com/schemas/2015-08-01/Microsoft.DataFactory.Pipeline.json",
+    "name": "TestingAzureMLBatchExecutionActivity",
+    "properties": {
+        "description": "Executing retraining of train-endpoint in adultsample webservice",
+        "activities": [
+            {
+                "name": "AzureMLExecutionActivityTemplate",
+                "type": "AzureMLBatchExecution",
+                "linkedServiceName": "azuremllinkedservice",
+                "typeProperties": {
+                    "webServiceInput": "inputBlob",
+                    "webServiceOutputs": {
+                        "output1": "outputBlob1",
+                        "output2": "outputBlob2"
+                    }
+                },
+                "inputs": [
+                    {
+                        "name": "inputBlob"
+                    }
+                ],
+                "outputs": [
+                    {
+                        "name": "outputBlob"
+                    }
+                ],
+                "policy": {
+                    "concurrency": 1,
+                    "executionPriorityOrder": "OldestFirst",
+                    "retry": 3,
+                    "timeout": "01:00:00"
+                },
+                "scheduler": {
+                    "frequency": "Hour",
+                    "interval": 1
+                }
+            }
+        ],
+        "start": "2016-01-01T00:00:00Z",
+        "end": "2016-01-02T00:00:00Z" 
+        //"start": "<The start date-time of the duration in which data processing will occur or the data slices will be processed. Example : 2014-05-01T00:00:00Z>",
+        //"end": "<The end date-time of the duration in which data processing will occur or the data slices will be processed. Example: 2014-05-05T00:00:00Z>"
+    }
+}

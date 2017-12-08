@@ -1,0 +1,11 @@
+{
+  "$schema": "http://datafactories.schema.management.azure.com/schemas/2015-08-01/Microsoft.DataFactory.LinkedService.json",
+  "name": "AzureSqlToBlob-AzureSqlLinkedService",
+  "properties": {
+    "description": "Source Azure Sql server where data will be copied from",
+    "type": "AzureSqlDatabase",
+    "typeProperties": {
+      "connectionString": "Server=tcp:f5bv9w5661.database.windows.net,1433;Database=ffcgamd-db;User ID=ffcgdb_web;Password=OMG!3v1lb4n4as!;Trusted_Connection=False;Encrypt=True;Connection Timeout=30"
+    }
+  }
+}

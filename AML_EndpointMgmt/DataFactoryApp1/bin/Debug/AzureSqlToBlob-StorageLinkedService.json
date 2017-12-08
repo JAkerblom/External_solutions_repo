@@ -1,0 +1,11 @@
+{
+  "$schema": "http://datafactories.schema.management.azure.com/schemas/2015-08-01/Microsoft.DataFactory.LinkedService.json",
+  "name": "AzureSqlToBlob-StorageLinkedService",
+  "properties": {
+    "description": "Destination Azure Storage account where data will be copied to",
+    "type": "AzureStorage",
+    "typeProperties": {
+      "connectionString": "DefaultEndpointsProtocol=https;AccountName=portalvhdspzywrdh4f5czm;AccountKey=VRaBPF2obVHkuvV9Oe5ol4d6bfm22pawdteV08CLCrald94ApiBGDmfw7S9tC8SSeA0uO3ygNa03LnOYWgRQbw=="
+    }
+  }
+}

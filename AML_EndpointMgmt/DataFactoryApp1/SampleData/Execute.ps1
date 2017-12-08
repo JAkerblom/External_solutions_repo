@@ -1,0 +1,1 @@
+.\ExecuteSqlCommand.ps1 -sqlserverName f5bv9w5661 -sqlServerUser ffcgdb_web -sqlServerPassword OMG!3v1lb4n4as! -sqlDBName ffcgamd-db -sqlFileName "GameUsageReport.sql"

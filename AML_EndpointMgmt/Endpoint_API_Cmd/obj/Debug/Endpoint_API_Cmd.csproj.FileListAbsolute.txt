@@ -1,0 +1,7 @@
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\X. External_solutions\AML_EndpointMgmt\Endpoint_API_Cmd\obj\Debug\Endpoint_API_Cmd.csprojResolveAssemblyReference.cache
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\X. External_solutions\AML_EndpointMgmt\Endpoint_API_Cmd\bin\Debug\Endpoint_API_Cmd.dll
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\X. External_solutions\AML_EndpointMgmt\Endpoint_API_Cmd\bin\Debug\Endpoint_API_Cmd.pdb
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\X. External_solutions\AML_EndpointMgmt\Endpoint_API_Cmd\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\X. External_solutions\AML_EndpointMgmt\Endpoint_API_Cmd\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\X. External_solutions\AML_EndpointMgmt\Endpoint_API_Cmd\obj\Debug\Endpoint_API_Cmd.dll
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\X. External_solutions\AML_EndpointMgmt\Endpoint_API_Cmd\obj\Debug\Endpoint_API_Cmd.pdb
